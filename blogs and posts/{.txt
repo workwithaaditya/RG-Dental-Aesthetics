@@ -1,0 +1,119 @@
+{
+  "clinic_name": "RG Dental & Aesthetic",
+  "location": "Delhi NCR",
+  "content_type": "educational_posts",
+  "posts": [
+    {
+      "category": "Preventive Dentistry",
+      "title": "Dental Sealants",
+      "slug": "dental-sealants-delhi-ncr",
+      "summary": "Preventive coating applied to molars to reduce cavities and enamel damage.",
+      "focus_keywords": ["Dental Sealants Delhi NCR", "Preventive Dentistry", "Cavity Prevention"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Pediatric Dentistry",
+      "title": "Pediatric Oral Hygiene",
+      "slug": "pediatric-oral-hygiene-delhi-ncr",
+      "summary": "Early dental care guidance for children to prevent cavities and gum issues.",
+      "focus_keywords": ["Pediatric Dentist Delhi NCR", "Child Oral Care", "Kids Dental Health"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Periodontics",
+      "title": "Reconstructive Periodontal Surgery",
+      "slug": "reconstructive-periodontal-surgery",
+      "summary": "Surgical treatment to restore gum health and prevent bone loss.",
+      "focus_keywords": ["Periodontal Surgery Delhi NCR", "Gum Treatment", "Gum Reconstruction"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Periodontics",
+      "title": "Peri-implantitis Management",
+      "slug": "peri-implantitis-treatment-delhi-ncr",
+      "summary": "Professional management of inflammation and bone loss around dental implants.",
+      "focus_keywords": ["Peri-implantitis Treatment", "Implant Care", "Gum Health"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Restorative Dentistry",
+      "title": "Tooth Coloured Fillings",
+      "slug": "tooth-coloured-fillings-delhi-ncr",
+      "summary": "Natural-looking fillings that restore structure and prevent further decay.",
+      "focus_keywords": ["Tooth Coloured Fillings", "Composite Fillings Delhi NCR"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Orthodontics",
+      "title": "Clear Aligners",
+      "slug": "clear-aligners-delhi-ncr",
+      "summary": "Discreet and removable aligners to correct misaligned teeth.",
+      "focus_keywords": ["Clear Aligners Delhi NCR", "Invisible Braces"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Orthodontics",
+      "title": "Self-Ligating Braces",
+      "slug": "self-ligating-braces-delhi-ncr",
+      "summary": "Advanced braces system reducing friction and treatment time.",
+      "focus_keywords": ["Self Ligating Braces", "Modern Braces Delhi NCR"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Orthodontics",
+      "title": "Metal Braces",
+      "slug": "metal-braces-delhi-ncr",
+      "summary": "Reliable stainless steel braces for effective bite correction.",
+      "focus_keywords": ["Metal Braces Delhi NCR", "Orthodontic Treatment"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Prosthodontics",
+      "title": "Dental Implants",
+      "slug": "dental-implants-delhi-ncr",
+      "summary": "Permanent solution for missing teeth restoring function and aesthetics.",
+      "focus_keywords": ["Dental Implants Delhi NCR", "Tooth Replacement"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Prosthodontics",
+      "title": "Complete and Partial Dentures",
+      "slug": "complete-partial-dentures-delhi-ncr",
+      "summary": "Custom dentures designed for comfort, stability, and natural appearance.",
+      "focus_keywords": ["Dentures Delhi NCR", "Partial Dentures"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Restorative Dentistry",
+      "title": "Restoration of Worn Teeth",
+      "slug": "restoration-of-worn-teeth",
+      "summary": "Advanced techniques to restore tooth structure and bite alignment.",
+      "focus_keywords": ["Worn Teeth Treatment", "Tooth Restoration Delhi NCR"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "General Dentistry",
+      "title": "Scaling and Polishing",
+      "slug": "scaling-polishing-delhi-ncr",
+      "summary": "Professional cleaning to remove plaque and tartar for healthier gums.",
+      "focus_keywords": ["Scaling Delhi NCR", "Teeth Cleaning"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "General Dentistry",
+      "title": "Tooth Extraction",
+      "slug": "tooth-extraction-delhi-ncr",
+      "summary": "Safe and comfortable extraction procedures using modern techniques.",
+      "focus_keywords": ["Tooth Extraction Delhi NCR", "Dental Surgery"],
+      "cta": "Call Now"
+    },
+    {
+      "category": "Restorative Dentistry",
+      "title": "Broken Teeth Treatment",
+      "slug": "broken-teeth-treatment-delhi-ncr",
+      "summary": "Restoration solutions including crowns, veneers, and implants.",
+      "focus_keywords": ["Broken Tooth Treatment", "Tooth Repair Delhi NCR"],
+      "cta": "Call Now"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "clinic_name": "RG Dental Clinic",
+  "location": "Faridabad",
+  "overall_rating": 5,
+  "reviews": [
+    {
+      "name": "Anonymous",
+      "rating": 5,
+      "review_age": "4 years ago",
+      "review": "Dr. Ruhi Ahuja is an excellent dentist. She explained every procedure thoroughly. I visited for braces and she was supportive and professional throughout the process."
+    },
+    {
+      "name": "Monika Arora",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Very good experience. Dr. Ruhi is kind and sweet. She carried out the treatment smoothly and patiently. Completely painless and highly recommended."
+    },
+    {
+      "name": "Nisha Kapoor",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Dr. Ruhi Ahuja is very cooperative and listens patiently. Very positive attitude. Clinic is well equipped with modern surgical tools."
+    },
+    {
+      "name": "Umrav Singh",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Dr. Ruhi is really a good doctor. She gave me excellent treatment and treats patients politely."
+    },
+    {
+      "name": "Sumit Sharma",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Very good experience. Diagnosis was done positively and treatment cost was economical compared to others."
+    },
+    {
+      "name": "Swati Paul",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "treatment": "Root Canal Treatment",
+      "review": "Highly qualified dentist. I had my root canal done and I am very satisfied with the service and pricing."
+    },
+    {
+      "name": "Iqbal 41603",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Dr. Ruhi is humble and polite. Treats patients like family. Excellent and well-equipped clinic."
+    },
+    {
+      "name": "Richa Garg",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Dr. Ruhi handles kids very patiently. I am very satisfied with the treatment given to my daughter."
+    },
+    {
+      "name": "Abhishek Paul",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "treatment": "Root Canal Treatment",
+      "review": "Had my root canal done at RG Dental Clinic. Very satisfied with the services. Must recommend."
+    },
+    {
+      "name": "Lalit Joshi",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "review": "Very experienced, economical and reliable doctor. Treats patients like family."
+    },
+    {
+      "name": "Abhishek Sehra",
+      "rating": 5,
+      "review_age": "6 years ago",
+      "treatment": "Cavity Filling",
+      "review": "Had cavity filling done. Very affordable and qualified dentist. Happy with the clinic."
+    },
+    {
+      "name": "Babita Sharma",
+      "rating": 5,
+      "review_age": "6 months ago",
+      "review": "Very good experience. No pain."
+    },
+    {
+      "name": "Vikram Singh",
+      "rating": 5,
+      "review_age": "4 years ago",
+      "review": "Best dentist. Well-equipped and hygienic clinic in Faridabad."
+    }
+  ]
+}
