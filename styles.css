@@ -414,6 +414,17 @@ ul { list-style: none; }
   gap: 6px;
 }
 
+/* About snippet */
+.hero-about {
+  font-size: .92rem;
+  color: var(--cream-dark);
+  line-height: 1.65;
+  margin-bottom: 24px;
+  max-width: 560px;
+  border-left: 3px solid var(--gold);
+  padding-left: 16px;
+}
+
 /* CTA */
 .hero-cta { display: flex; gap: 14px; flex-wrap: wrap; }
 
